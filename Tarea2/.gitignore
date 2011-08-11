@@ -1,0 +1,10 @@
+# Archivos temporales de vim
+*~
+*.swp
+# Compilados
+*.o
+*.so
+*.gch
+# Ejecutables
+programa1
+programa2
